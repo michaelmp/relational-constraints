@@ -1,6 +1,6 @@
 # Bean Validation 2.0 Patterns
 
-Demonstrates patterns using _groups_ and _payload_ constraint attributes in Java Bean Validation 2.0 (JSR-380), released in August 2017 for Java 8.
+Demonstrates patterns using _groups_ and _payload_ constraint attributes in the Java Bean Validation 2.0 API (JSR-380), released in August 2017 for Java 8.
 
 See: [Bean Validation specification](http://beanvalidation.org/2.0/spec/)
 
