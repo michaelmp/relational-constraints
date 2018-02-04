@@ -15,7 +15,7 @@ assertFalse(violations.stream().anyMatch(v -> v.getConstraintDescriptor().getPay
 
 ## Relational Pattern
 
-I added a helper class, [RelationChecker.java](src/test/java/mmp/relational_constraints/example/RelationChecker.java), that wraps the payload inspection.
+I added a helper class, [RelationChecker.java](src/main/java/mmp/relational_constraints/example/RelationChecker.java), that wraps the payload inspection.
 [RelationCheckerTest.java](src/test/java/mmp/relational_constraints/example/RelationCheckerTest.java) demonstrates how to check for the flagging of a payload, in the context of a group, for the validated object.
 
 ```java
